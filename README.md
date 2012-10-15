@@ -8,7 +8,7 @@ This vim bundle adds syntax highlighting for the MetaQuotes Language 4 [MQL4](ht
 
 - Clone the `vim-mql4` repository in the bundle folder of vim (typically, `~/.vim/bundle` for Linux and `~/vimfiles/bundle` for Windows):
 
-$ git clone https://github.com/phaubos/vim-mql4 
+        $ git clone https://github.com/phaubos/vim-mql4 
 
 ## Credits ##
 
