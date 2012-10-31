@@ -1,6 +1,6 @@
 # VIM-MQL4 #
 
-This vim bundle adds syntax highlighting for the MetaQuotes Language 4 [MQL4](http://docs.mql4.com/).
+This vim bundle adds indentation and syntax highlighting for the MetaQuotes Language 4 [MQL4](http://docs.mql4.com/).
 
 ## Installation ##
 
