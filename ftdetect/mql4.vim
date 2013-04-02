@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.mq4 setf mql4
+autocmd BufNewFile,BufRead *.mq[4h] setf mql4
